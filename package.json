@@ -1,0 +1,8 @@
+{
+  "name": "demo-hapi-plugin",
+  "version": "0.0.1",
+  "main": "app",
+  "dependencies": {
+    "hapi": "^7.0.0"
+  }
+}
